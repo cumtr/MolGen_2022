@@ -1,11 +1,5 @@
 Information about files in Project: 1_Frogs/
 
-Data/Phylo/:
-	AllSeq.fasta
-		# fasta formatted sequences for each of your sequences. Each sample name has the same format: PopulationNumber_PopulationCode_IndividualCode_cytb_consensus
-	Outgroups/Hyla_mtDNA_Dufresnes_2018
-		# fasta formatted Sequences for many Hyla species that you can use as outgroup
-
 Data/RADphylo/:
 	# You don’t need this file in the actual version of the practical
 
