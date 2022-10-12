@@ -5,5 +5,6 @@ Data/
 		# Coordinates of populations used in this project. You can use it ti plot Eels populations on a map.
 	eel_snps_subset.gen
 		# genetic data for the eels in Genpop fromat.
-	
+	eel_snps_subset.lfmm
+		# Dataset formated for the lfmm function in R.
 
